@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cliches Get To Be Legit Cliches By Being Legitimately Useful"
+title:  "Legit Cliches Become Legit By Being Legitimately Useful"
 subtitle:  "Get Yourself a Clichesaurus; Embrace Slogans and Mnemonics That Work"
 date:   2023-08-01 4:30:00
 categories: template
