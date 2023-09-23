@@ -9,11 +9,11 @@ categories: template
 
 # Be able to find things and make yourself findable.
 
-Make it possible for better situations to choose you ... make it possible for weaker situations to decide they just can't handle your expectations ... make it possible for large factions of the global economy to be completely unaware of you, ignore you or avoid you ... but BE FINDABLE for the right situations.
+Make it possible for better situations to choose you ... manage your personal brand; maybe reverse-job-boardify your shingle ... make it possible for weaker situations to decide that they can learn from you, but just can't handle your expectations or intensity in a physical sense ... make it possible for large factions of the global economy to be completely unaware of you, ignore you or avoid you ... but do continue to BE FINDABLE for the right situations -- the point is that YOU control and drive findability.
 
 # Listen better than the best; engineer your observability
 
-Listening is a lot tougher than it looks. This is not *just* a matter of tech ... except, of course, you will definitely want to utilize tech to complement the non-tech side ... it's not the hardware, it's the constantly elevated discipline.
+Listening is the flipside of findability; listening has always been a lot tougher than it looks -- but it's even tougher now. This is not *just* a matter of tech ... except, of course, you will definitely want to utilize tech to complement the non-tech side ... it's not the hardware, it's the constantly elevated discipline.
 
 If you want observability, you will need to be ***intimately*** familiar with structure of your data collection, sorting, sifting, processing, indexing and knowledge retrieval tech. 
 
