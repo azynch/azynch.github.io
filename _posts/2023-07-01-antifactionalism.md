@@ -2,7 +2,7 @@
 layout: post
 title:  "In A World Of Factions, Be Antifactional"
 subtitle:  "In A World Of Following Icons, Be An Iconoclast"
-date:   2023-06-01 4:30:00
+date:   2023-07-01 4:30:00
 categories: template
 ---
 
