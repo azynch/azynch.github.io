@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nobody Needs Your Old Shit"
+title:  "Let Go Of It; Nobody Needs Your Old Shit"
 subtitle:  "Networked sharing of better solutions makes your old shit obsolete"
 date:   2023-06-01 4:30:00
 categories: template
