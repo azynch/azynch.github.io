@@ -1,6 +1,6 @@
 ## AZYNCH is a spin-off of 86400.GURU
 
-86400.GURU is primarily about simple disciplines that we all can use in order to build stronger habits to optimize each one of the 86400 seconds in each day.
+86400.GURU is primarily about TIME ... and simple disciplines, like embracing ASYNCHRONICITY ... that we can use in order to build stronger habits to optimize each one of the 86400 seconds in each day.
 
 It uses [Github Pages](https://pages.github.com/) because the [entire repository](https://github.com/86400guru/86400guru.github.io/) is meant to be forked and then changed, edited, revised and optimized for your own purposes. 
 
