@@ -24,3 +24,15 @@ Extreme ownership means that YOU have to bring and elevate your discipline of be
 Making your shit FINDABLE is one element of embracing ASYNCHRONICITY.  You must take charge of your own skillset, habits, disciplines so that are able to collaborate with the future you ... OR so that you are better able to communicate with anyone, anywhere, anytime. 
 
 If it was not already painfully obvious BEFORE, embracing asynchronicity makes it even more imperative that you **manage your own time** and, above all, ***be much more focused on YOUR WHY***. *Stop settling for masters who demand that you kowtow to their agenda.*
+
+# All genuinely useful code ends up being reviewed, forked, completely changed by someone else
+
+***... or else, without this review/forking process, code just becomes dead code, perhaps favorite pet of some old geezer, but something that just sits on those hard-drive which end up at Recycling Center ... so the code is never used or heard from again.***
+
+The most useful code will inspire extension and forking. More ideas are better than fewer ideas; often, specific oddball ideas are a much better fit for different situations than they are for the general use case. Thus, Git works best when developers anticipate future, but unforeseeable riffing, diffing, forking, play and improvisation. To make it possible to make the most of the proliferation of ideas, we should try to make sure that one commit should corresponds to one functional change, as is required for the sortability of things like:
+
+[git revert](https://git-scm.com/docs/git-revert)
+
+[git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+
+[git bisect](https://git-scm.com/docs/git-bisect)
