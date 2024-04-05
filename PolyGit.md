@@ -5,11 +5,13 @@ permalink: /PolyGit/
 ---
 
 
-You already know why you need to be a polyglot, but you also really need to be PolyGIT ... able to think in Git as a native and aware of *different ways to cook the ol' egg* in Git, even though you might use one way 99% of the time -- not everybody you work with is going to have your same workflow, and you need to be able to understand their workflow, maybe to offer a better way OR to find a better way to adapt. Being a PolyGit is about being able to *see what someone else did there* rather than either just accepting it with an eye roll or just rejecting it out of hand.
+You already know why you need to be a polyglot, but you also really need to be PolyGIT ... able to think in Git as a native and aware of *different ways to cook the ol' egg* in Git ... you want to stay positive, yet critically review an action ... even though you might use one way to accomplish a certain kind of objective 99% of the time -- not everybody you work with is going to have your same workflow. You really need to be able to understand their workflow from the inside, maybe to offer them a better way OR, maybe they have found a better way for you to adapt. 
+
+Being a PolyGit is about being able to get inside the thinking and *see what someone else did there* rather than either just accepting it with an eye roll or just rejecting it out of hand.
 
 The reason why you need to be a PolyGit is that in asynchronous workflows, **we don't rely upon meetings -- INSTEAD we rely on genuinely, helpfully, empathetically, constructively OVERCOMMUNICATING.**
 
-Asynch workflows are best built on Git ... if you want to be part of these workflows, you **have to be** PolyGit in order to competently OVERCOMMUNICATE in Git-based code reviews and all Git-based communications.
+Asynch workflows are best built on Git ... if you want to be part of these workflows, you **have to be** a PolyGit in order to competently OVERCOMMUNICATE in Git-based code reviews and all Git-based communications.
 
 ## Git SuperFluency for Asynchronous Overcommunication
 
