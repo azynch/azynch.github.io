@@ -1,12 +1,21 @@
 ---
 layout: page
-title: Polyglot
-permalink: /Polyglot/
+title: PolyGit
+permalink: /PolyGit/
 ---
 
-## Git Fluency
 
-The absolute minimum PREREQUISITE for any serious attempt at engineering an asynchronous workflow is going to be commitment to improving your fluency in [Git commands](https://git-scm.com/docs/git) and that fluency will have to be grounded in a firm understanding of [Git concepts](https://git-scm.com/docs/user-manual#git-concepts) ... we have a strong preference for being aware of [Git Command Line Interface (CLI)](https://git-scm.com/docs/git) over just trusting the graphical user interfaces, particularly Windows and Node.JS interfaces, because ubiquitous easy to use [and never second-guess] attracts evil, but we are not terribly dogmatic about this -- the main point is that just that you even if your don't use the CLI, you will inevitably still need to understand some things about what is happening *under the hood*.
+You already know why you need to be a polyglot, but you also really need to be PolyGIT ... able to think in Git as a native and aware of *different ways to cook the ol' egg* in Git, even though you might use one way 99% of the time -- not everybody you work with is going to have your same workflow, and you need to be able to understand their workflow, maybe to offer a better way OR to find a better way to adapt. Being a PolyGit is about being able to *see what someone else did there* rather than either just accepting it with an eye roll or just rejecting it out of hand.
+
+The reason why you need to be a PolyGit is that in asynchronous workflows, **we don't rely upon meetings -- INSTEAD we rely on genuinely, helpfully, empathetically, constructively OVERCOMMUNICATING.**
+
+Asynch workflows are best built on Git ... if you want to be part of these workflows, you **have to be** PolyGit in order to competently OVERCOMMUNICATE in Git-based code reviews and all Git-based communications.
+
+## Git SuperFluency for Asynchronous Overcommunication
+
+The absolute minimum PREREQUISITE for any serious attempt at engineering an asynchronous workflow is going to be an ongoing commitment to going back to the [basics of Git, especially Git branches](https://github.com/git-guides#create-a-branch) and engaging in the neverending improvement in your fluency in [Git commands](https://git-scm.com/docs/git) and that fluency will have to be grounded in a firm understanding of [Git concepts](https://git-scm.com/docs/user-manual#git-concepts).
+
+Although we genuinely love tools like [GitLens, because of how visual tools help illuminate knowledge with a repository](https://www.gitkraken.com/gitlens?utm_source=gitlens-extension&utm_medium=in-app-links&utm_campaign=gitlens-logo-links),we do have a strong preference for being aware of [Git CLI Commands](https://git-scm.com/docs/git), rather than just trusting the graphical user interfaces, particularly Windows and Node.JS interfaces, because ubiquitous easy to use [and never second-guess] attracts evil, but we are not terribly dogmatic about this -- the main point is that just that you even if your don't use the CLI, you will inevitably still need to understand some things about what is happening *under the hood*.
 
 ### Git Concepts
 
