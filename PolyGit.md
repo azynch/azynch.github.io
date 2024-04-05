@@ -4,6 +4,7 @@ title: PolyGit
 permalink: /PolyGit/
 ---
 
+# Not Just a Polyglot, but a PolyGit
 
 You already know why you need to be a polyglot, but you also really need to be PolyGIT ... able to think in Git as a native and aware of *different ways to cook the ol' egg* in Git ... you want to stay positive, yet critically review an action ... even though you might use one way to accomplish a certain kind of objective 99% of the time -- not everybody you work with is going to have your same workflow. You really need to be able to understand their workflow from the inside, maybe to offer them a better way OR, maybe they have found a better way for you to adapt. 
 
@@ -25,9 +26,40 @@ There's not really an substitute for an in-depth, intuitive understanding of [Gi
 
 [Understanding commit history](https://git-scm.com/docs/user-manual#understanding-commits) is based on a solid foundation of really understand the [object storage format](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects) and relationships in the git internal architecture of the four different types of objects: [commit object](https://git-scm.com/docs/user-manual#def_commit_object) links a physical state of a tree with a description of how we got there and why, [tree object](https://git-scm.com/docs/user-manual#def_tree_object) object contains a list of entries, each with a mode, object type, SHA-1 name, and name, sorted by name, [tag objects](https://git-scm.com/docs/user-manual#def_tag_object) are more focused on versioning, findability, and reproducibility but they can be used to incorporate a degree of trust and authenticity into overall system; tags contain an object, object type, tag name, the name of the person ("tagger") who created the tag, and a message, which may contain a signature and [blob objects](https://git-scm.com/docs/user-manual#def_blob_object) nothing but a binary blob defined entirely by its file data; of course, file data is the basis of what you are working on under version control system, but don’t refer to anything else or have attributes of any kind.  
 
-### Git Butler, Tauri and Rust
+### Git Butler for Multitasking Across Branches
 
-In a nutshell, [GitButler](https://gitbutler.com/) is a more flexible version of [git add -p](https://g.co/gemini/share/9bbd292b1664) and [git rebase -i](https://g.co/gemini/share/dd723bdb9d05), allowing you to efficiently multitask across branches ... multitasking across related branch to review code is almost necessary capability for anyone with others in an asynchronous workflow. 
+Multitasking across related branches to review/try out/revise code is almost necessary capability for anyone with others in an asynchronous workflow. There are different ways to do this *manually* using [git add -p](https://g.co/gemini/share/9bbd292b1664) and [git rebase -i](https://g.co/gemini/share/dd723bdb9d05) ... but using a tool like [GitButler](https://gitbutler.com/) is a more flexible, more efficient way to multitask across branches.
+
+When multitasking across related branches and reviewing code with a distributed team using Git repositories, there are several STARDARD [rules of communication](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) to require developers on the team to follow:
+
+1. Efficient code review [and future code maintainability] is built on a foundation of standard, clean [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) ... for example: 
+
+        Add search functionality to user dashboard
+        - Implement search bar in the user dashboard
+        - Allow users to search for specific records by name or ID
+        - Display search results in a paginated table
+        
+        Closes #123
+
+2. Use descriptive, clear branch names that identify the purpose, feature, bug fix, or task reference. Keep branches focused on separate branches for each distinct feature, bug fix, or task. A feature branch workflow where each feature or task is developed in a separate branch and merged back into the main branch after review and approval promotes isolation of issues, coherent parallel development, and clear integration points.
+
+3. Regularly push changes to the remote repository frequently to communicate progress and get feedback from team members; this enables collaboration and provides a backup of your work. 
+
+4. Keep feature branches up to date by regularly merge the latest changes from the main branch into your feature branches. This helps minimize merge conflicts and ensures that changes in feature branches are compatible with the **latest** main branch codebase.
+
+5. Overcommunicate with BETTER (ie, write it, let it sit, revise it) descriptions in pull [or merge] requests the clearly, concisely describe the problem being solved and the relevant context why it matters to the code, ie not "I was working on X, so I got to thinking about Y, then I worked how X and Y are related by Z which is the inverse A, so here's A". Utilize [pull requests on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) OR [merge on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/) requests to propose changes, to initiate code review and reinforce issue-driven development practices by centralizing the location comments related to the proposed change before merging the feature branch into the main branch. 
+
+6. Beyond just communication, foster collaboration among team members by continually levelling up mastery and leveraging the different tools provided by Git hosting platforms (e.g., GitHub, GitLab) and to the greatest degree possible standardize on toolchain components. There probably should be a standard ***team*** integrated development environment that everyone uses. Leveraging the standard IDE helps build a shared proficency in communicating through approval workflows and branch related comments, but this also means that there must be a standard, designated discussion board for more general suggestions or non-branch related commentary. 
+
+7. Require all developers on the team to implement standard automated testing and continuous integration (CI) processes to catch potential issues as early as possible and better ensure that the codebase remains stable. These tests and checks have to be run automatically, ideally before changes are pushed to the repository.
+
+8. Continually work to set expectations for the individuals on team to prioritize reviewing code to drive more frequent, smaller and better review of pull requests.
+
+9. Document and share the team's agreed-upon best practices, coding conventions, and workflow guidelines. Ensure that all team members are familiar with and follow these practices consistently, by referencing the best practices documents.
+
+10. Avoid ROUTINE meetings. Most work should be done asynchronously ... accordingly to people's lives ... not tyrannically hi-jacked by the lowest-common denominator demand for a meeting.  It is permissible even necessary at times to use communication channels like chat or zoom video conferencing to discuss complex changes, clarify doubts, or resolve thornier conflicts -- but recognize that relying on **routine** meetings is generally a sign of a broken commitment to standardization and overcommunication.
+
+Remember, effective multitasking and code review processes require discipline, communication, and collaboration among team members. By following these best practices and adapting them to your team's specific needs, you can streamline your workflow and maintain a high-quality codebase while working on multiple related branches.
 
 GitButler keeps track of uncommitted changes in a layer on top of Git. Changes to files or parts of files can be grouped into ***virtual branches***. Whenever you are happy with the contents of a virtual branch, you can push it to a remote. GitButler makes sure that the state of other virtual branches is kept separate.  
 
