@@ -16,7 +16,9 @@ There's not really an substitute for an in-depth, intuitive understanding of [Gi
 
 ### Git Butler, Tauri and Rust
 
-In a nutshell, [GitButler](https://gitbutler.com/) is a more flexible version of git add -p and git rebase -i, allowing you to efficiently multitask across branches ... which is almost necessary capability for anyone with others in an asynchronous workflow. GitButler keeps track of uncommitted changes in a layer on top of Git. Changes to files or parts of files can be grouped into ***virtual branches***. Whenever you are happy with the contents of a virtual branch, you can push it to a remote. GitButler makes sure that the state of other virtual branches is kept separate.  
+In a nutshell, [GitButler](https://gitbutler.com/) is a more flexible version of [git add -p](https://g.co/gemini/share/9bbd292b1664) and [git rebase -i](https://g.co/gemini/share/dd723bdb9d05), allowing you to efficiently multitask across branches ... multitasking across related branch to review code is almost necessary capability for anyone with others in an asynchronous workflow. 
+
+GitButler keeps track of uncommitted changes in a layer on top of Git. Changes to files or parts of files can be grouped into ***virtual branches***. Whenever you are happy with the contents of a virtual branch, you can push it to a remote. GitButler makes sure that the state of other virtual branches is kept separate.  
 
 In using just Git alone, it is preferable or pretty much necessary when working with others, that you create your desired branches ahead of time, but when using GitButler you can move changes between ***virtual*** branches at any point during development.  *Normal* branches in Git are separate universes, and switching between them is a full context switch. 
 
