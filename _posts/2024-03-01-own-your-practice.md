@@ -6,22 +6,14 @@ date:   2024-03-01 4:30:00
 categories: template
 ---
 
-Of course, you should use automation ... and you should steal good ideas that work ... but ***you must OWN your practice*** ... you must OWN every bit of who you are -- you especially have to polish, maintain, upgrade, level up, refurbish and improve those undisciplined little parts of you that you are working on. Never mind your house or your car or your guns or any of your stuff -- OWNING your practice is about YOU.
+Of course, you should be aware of the best asynchronous tools and automation ... you don't have to reinvent the whole wheel, you should steal the very best ideas that proving themselves for others ... because they're simpler, better, more reliable and just seem  to work better ... reinventing EVERYTHING is not required, but you can focus on tailoring the stuff that matters, because ***you must OWN your practice.*** 
+
+Asynchronous means NO BABYSITTERS.
+
+You must OWN every bit of who you are -- you especially have to polish, maintain, upgrade, level up, refurbish and improve those undisciplined little parts of you that you are working on. Never mind your house or your car or your guns or any of your stuff -- OWNING your practice is about YOU.
 
 Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
-# Not just practicing with intention, but you must OWN the DAILY improvement of your discipline
+# Asynchronous Communication Tools
  
-Particular care should be taken to put time mgmt discipline not just into practice ... but to work diligently to OWN the discipline and to adjust, tailor, refactor and improve the discipline of the practice.
-
-Without the repetition of OWNERSHIP ... and, actually *doing it* as if the discipline is a valued asset ... the so-called knowledge of the time management skillset becomes nothing more than self-deception.
-
-We, of course, will recognize this kind of self-deception in people who read a Wikipedia entry and believe that they understand a topic ... it's maybe even worse in the use of AI to generate content for code, a blog posting, a professional article or a legal brief.
-
-TIME MGMT has to be OWNED ... it's not just the skill itself, but it's more the case with the discipline of time management and the daily refinement of the discipline. 
-
-It's not JUST that the only advantages come from actually doing something ... understanding something requires the repitition of improvement of the perfect repitition AND the correction of the imperfect repition.
-
-It's necessary to FAIL ... to gain humility ... or otherwise, it is nothing but VANITY of no-depth ... which happens when someone thinks they get, but ... has engaged in self-deception.
-
-When we do no IMPROVE our time management discipline ... we deceive only ourselves.
+[Jira](https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software) for bug tracking, issue tracking and agile project management ... and [Confluence](https://www.atlassian.com/software/confluence/resources/guides/best-practices/project-collaboration#overview), the web-based corporate wiki enterprise knowledge management system were the top two async tools amongst ALL developers, but particularly professional developers, in the [StackOverflow 2023 survey of asynchronous developers](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-asynchronous-tools) ... but it interesting that just using ordinary markdown files also broke top three; do this is maybe even more common than the survey indicates, since some might not even think of using markdown, either with a static website generator like Jekyll or Hugo OR just in the comments on issues on GitHub/GitLab, as being a ***tool***. People who are learning to code rely upon [GitHub Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions) more than markdown files; noobs also tend ot turn to products like the [Notion](https://www.notion.so/), freemium note-taking web application for task management, project tracking, to-do lists, and bookmarking.(26%) or [Trello](https://trello.com/), the freemium web-based, kanban-style, list-making application.
