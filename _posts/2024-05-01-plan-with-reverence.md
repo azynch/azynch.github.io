@@ -2,7 +2,7 @@
 layout: post
 title:  "Meditationg on Being Present ... Execute With Intention"
 subtitle:  "Continuously Sharpen The Axe ... Build the Muscle Memory of Your Plan"
-date:   2024-04-01 4:30:00
+date:   2024-05-01 4:30:00
 categories: template
 ---
 

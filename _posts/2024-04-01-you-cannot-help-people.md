@@ -2,18 +2,28 @@
 layout: post
 title:  "You Cannot Help People ... Because 'They Know That Already'"
 subtitle:  "Optimize means EMBRACING the daily grind"
-date:   2024-05-01 4:30:00
+date:   2024-04-01 4:30:00
 categories: template
 ---
 
 
 ***"Yeah, yeah, yeah ... I know that already."*** 
 
-You cannot really help people, ***especially oldfuckers***, by telling them anything.
+You cannot really help people, ***especially oldfuckers***, by telling them anything ... when people try to help themselves, they might ask for guidance, a tiny amount of assistance and THAT is a way that you can help them make that tiny step, BUT it's necessary for people to find their own, develop self-confidence and a degree of self-reliance so that they can keep going and building on their own. 
 
-People, ***especially oldfuckers***, are actually plent SMART already about all of these things; they know ALL about good intentions ... they've heard before.
+But **you cannot help people** because people, especially NEEDY people demanding an EASY BUTTON, are un-help-able.
 
-They are more than familiar with the endless array of [different mnemonic devices for goalsetting](https://www.developgoodhabits.com/mnemonic-devices/) ... they have been to more self-development seminars, bootcamps, retreats than they can count ... they have listened to decades worth of self-help audiobooks as they commute ... as they go for their daily run or walk they listen even more podcasts to augment their storehouse of time-proven, old reliable ideas from DaleCarnigie, NapoleonHill, TonyRobbins, StephenCovey, JohnMaxwell, Eckhart Tolle, RobertGreene, JoeDispenza.
+You may certainly TRY, but you will find that people have to develop the self-confidence that comes from helping themselves ***and assisting in that process, in a really **MINOR** way, eg *reassuring them, cheering them on, challenging them to put off quitting when they want to quit right now, sharing a meal with them, listening to give them a sounding board or any way that does not do it for them*
+
+People, ***especially oldfuckers***, are actually plent SMART already about all of these things; they know ALL about good intentions ... they've heard it all before.  You CANNOT help old NEEDY fuckers who just want the easy button path back to being high school again.
+
+# Simple prayers and meditation, Lifehacker or Atomic Habits or regurgitated stoics, AI Assistants ... there's NO END to the help that is already available to people.
+
+It's not really the book or the training or any kind of OUTSIDE assistance. All of that stuff is already out there.
+
+People are already more than familiar with the endless array of [different mnemonic devices for goalsetting](https://www.developgoodhabits.com/mnemonic-devices/) ... OR, if not they can ask an AI assist to give them a mnemonic device for something like "LEAN" thinking" or "learning to see waste." 
+
+People, especially old fuckers have been to bajillions of self-development seminars, bootcamps, retreats than they can count ... they have listened to decades worth of self-help audiobooks as they commute ... as they go for their daily run or walk they listen even more podcasts to augment their storehouse of time-proven, old reliable ideas from DaleCarnigie, NapoleonHill, TonyRobbins, StephenCovey, JohnMaxwell, Eckhart Tolle, RobertGreene, JoeDispenza.
 
 People are almost too SMART when it comes to all of the material out there now, eg not just Google, Wikipedia or YouTube, now we have AI assistants.
 
@@ -25,7 +35,9 @@ That's where the same old, boring, "*Yeah, yeah, yeah ... I know that already*" 
 
 # Optimize means EMBRACING the daily grind
 
-LOVING your Creator is about embracing YOUR WHY. When people ask, "How Do We Overcome Boredom or Tedium?" we should understand that this is indeed a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
+LOVING your Creator is about embracing YOUR WHY ... this means LOVING your life and being grateful for everything, ESPECIALLY THE LITTLE PROBLEMS AND AGGRAVATIONS that you have been blessed with as training exercises.
+
+When people ask, "How Do We Overcome Boredom or Tedium?" we should understand that this is indeed a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
 Tedium ... or failing to respect our WHY, failing to appreciate and LOVE our Creator, drives an exquisitely subtle behavior, something that many can/do hide, something that has been around for a very long time ... but maybe only recently picked up a popular name ... that something is the ***OL'*** *quiet quit* on ourselves ... we get a little bored, so we sorta look around for distractions and take a mini-vacation from ourselves, from our WHY.
 
