@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PolyGit
-permalink: /PolyGit/
+title: GitRxiv
+permalink: /GitRxiv/
 ---
 
 # Not Just a Polyglot, but a PolyGit

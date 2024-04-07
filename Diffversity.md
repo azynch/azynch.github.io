@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Immersive Learning
-permalink: /Immersion/
+title: Diffversity
+permalink: /Diffversity/
 ---
 
 
-Let's start off with the entirely outrageous claim that ***working in the realm of [cognitive radio (CR)](https://en.wikipedia.org/wiki/Cognitive_radio) for [autonomous](https://en.wikipedia.org/wiki/Autonomous_robot) [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) [swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics) is actually a means of training for meditative awareness.***  
+## ACCELERATED IMMERSION and DIFFVERSITY
 
-*Yeah, that's OBVIOUSLY a* ***total stretch*** *... but let's think about what that would mean ...*  
+Diffversity is our approach to continual, lifelong education in order to prepare for a world of even more rapid change ... in a nutshell, it's all about continually gathering CURRENT intelligence and knowledge about the DIFFERENCES that will be shaping the world around us ... it's about developing the tools of knowledge engineering in order help us learn to be more present, to listen better, to be more empathetic, to ask better questions and to HELP OTHERS to make better decisions.
 
-### How we LEARN immersively is the key to how we WILL think
+Let's start off with an example ... consider the entirely outrageous claim that ***working in the realm of [cognitive radio (CR)](https://en.wikipedia.org/wiki/Cognitive_radio) for [autonomous](https://en.wikipedia.org/wiki/Autonomous_robot) [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) [swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics) is actually a means of training for meditative awareness.***  
+
+*Yeah, that's OBVIOUSLY a* ***total stretch*** *... but let's think about how that system would function in a chaotic battlefield environment ... and what that kind of thinking would mean in our lives ...* 
+
+**Diffversity** is about the [hormesis](https://en.wikipedia.org/wiki/Hormesis) of mental or cognitive [dose-response relationships](https://en.wikipedia.org/wiki/Dose%E2%80%93response_relationship) ... pushing the DIFFERENCES is all about [accelerating our stress screening](https://en.wikipedia.org/wiki/Highly_accelerated_stress_audit) to understand our ability to [perform at a high level of quality under stress](https://en.wikipedia.org/wiki/Load_testing) ... nobody ***loses their religion*** when they are preaching to the choir; the nasty side comes out when people step on a Lego in the dark.
+
+**Diffversity** is based the idea that we can learn to think better by immersing ourselves in the most difficult, challenging, complex and HARD problems that we can find ... but we probably *learn best* when we can do so in a manner in which we can be relatively sure that we'll survive the difficulty, ie it doesn't really advance our cause to have everyone DIE from the learning experience ... troubleshooting issues to understand how systems respond will be HARD, but it has to a very PRACTICAL and HANDS-ON experience ... because *learning to think* about frustrating problems helps us to be more present, more empathetic, more aware and more focused.
+
+## How we learn IMMERSIVELY is the key to how we WILL think
 
 *We should never stop learning IMMERSIVELY ...* ... in fact we should accelerate the plunge in [immersive learning](https://en.wikipedia.org/wiki/Immersive_learning) so that a portion of our brain is continually in that mode of learning how to speak, to hear, what to watch and how we learned to THINK and be aware of our cognitive strategies in our [first] ***native language***.
 
