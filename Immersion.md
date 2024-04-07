@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Accelerating The IMMERSIVENESS of Immersive Learning"
-subtitle:  "Cognitive Radio For RT-FT Swarms Is Training for Meditative Awareness"
-date:   2024-03-01 4:30:00
-categories: template
+layout: page
+title: Immersive Learning
+permalink: /Immersion/
 ---
+
 
 Let's start off with the entirely outrageous claim that ***working in the realm of [cognitive radio (CR)](https://en.wikipedia.org/wiki/Cognitive_radio) for [autonomous](https://en.wikipedia.org/wiki/Autonomous_robot) [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) [swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics) is actually a means of training for meditative awareness.***  
 
