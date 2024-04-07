@@ -2,14 +2,17 @@
 layout: post
 title:  "Avoid Self-Deception ... OWN Your AZYNCH Practice"
 subtitle:  "Extreme OWNERSHIP means constantly elevating your disciple"
-date:   2024-03-01 4:30:00
+date:   2024-02-01 4:30:00
 categories: template
 ---
 
 Of course, you should be aware of the best asynchronous tools and automation ... you don't have to reinvent the whole wheel, you should steal the very best ideas that proving themselves for others ... because they're simpler, better, more reliable and just seem  to work better ... reinventing EVERYTHING is not required, but you can focus on tailoring the stuff that matters, because ***you must OWN your practice.*** 
 
 ***Asynchronous means that you are an ADULT who is capable of developing ADULT toolchain to accomplish ADULT projects; being*** **capable of an asynchronous workflow** ***means NO BABYSITTERS ARE NECESSARY.***
-You must OWN every bit of who you are -- you especially have to polish, maintain, upgrade, level up, refurbish and improve those undisciplined little parts of you that you are working on. Never mind your house or your car or your guns or any of your stuff -- OWNING your practice is about YOU.
+
+You must OWN every bit of who you are -- that includes building your own tools.
+
+You especially have to polish, maintain, upgrade, level up, refurbish and improve those undisciplined little parts of you that you are working on. Never mind your house or your car or your guns or any of your stuff -- OWNING your practice is about YOU.
 
 Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
