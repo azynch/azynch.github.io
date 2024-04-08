@@ -5,15 +5,25 @@ permalink: /Diffversity/
 ---
 
 
-## ACCELERATED IMMERSION and DIFFVERSITY
+AZYCNH workflows involve constanting leveling up one's skills in a self-starting, [autodidactic](https://en.wikipedia.org/wiki/Autodidacticism) fashion.
 
-Diffversity is our approach to continual, lifelong education in order to prepare for a world of even more rapid change ... in a nutshell, it's all about continually gathering CURRENT intelligence and knowledge about the DIFFERENCES that will be shaping the world around us ... it's about developing the tools of knowledge engineering in order help us learn to be more present, to listen better, to be more empathetic, to ask better questions and to HELP OTHERS to make better decisions.
+Diffversity is in the knowledge engineering business. We work at developing the components of the toolchain for an individual's knowledge engineering processes ... in order help us all ACCELERATE our LEARN PROCESSES.
 
-Let's start off with an example ... consider the entirely outrageous claim that ***working in the realm of [cognitive radio (CR)](https://en.wikipedia.org/wiki/Cognitive_radio) for [autonomous](https://en.wikipedia.org/wiki/Autonomous_robot) [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) [swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics) is actually a means of training for meditative awareness.***  
+The POINT of wanting LEARN better is about being able to accomplish better results faster ... so that we are able to be more present, to listen better, to be more empathetic, to ask better questions and to HELP OTHERS as they make better decisions in their lives.
 
-*Yeah, that's OBVIOUSLY a* ***total stretch*** *... but let's think about how that system would function in a chaotic battlefield environment ... and what that kind of thinking would mean in our lives ...* 
+## ACCELERATED IMMERSION defines the DIFFVERSITY LEARNING PROCESS
 
-**Diffversity** is about the [hormesis](https://en.wikipedia.org/wiki/Hormesis) of mental or cognitive [dose-response relationships](https://en.wikipedia.org/wiki/Dose%E2%80%93response_relationship) ... pushing the DIFFERENCES is all about [accelerating our stress screening](https://en.wikipedia.org/wiki/Highly_accelerated_stress_audit) to understand our ability to [perform at a high level of quality under stress](https://en.wikipedia.org/wiki/Load_testing) ... nobody ***loses their religion*** when they are preaching to the choir; the nasty side comes out when people step on a Lego in the dark.
+Our self-starting, [autodidactic](https://en.wikipedia.org/wiki/Autodidacticism) approach to lifelong education is about taking full responsibility for learning better, learning more rapidly. Thinking DIFFERENT about education is about preparing for a world [or multi-dimensional battlefield] characterized by even more rapid technological change.
+
+In a nutshell, the ***Diffversity approach*** all about continually gathering the most current intelligence and knowledge, making sense of it all and then predictively looking forward intuitively to see what the DIFFERENCE-MAKING technologies will be that overcome our current constraints ... to re-shape the technology that matters in the Universe around us.
+
+It's probably best to start with an example ... consider the highly intuitive, but seemingly preposterous claim that ***working in the realm of [cognitive radio (CR)](https://en.wikipedia.org/wiki/Cognitive_radio) for [autonomous](https://en.wikipedia.org/wiki/Autonomous_robot) [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [fault tolerant](https://en.wikipedia.org/wiki/Fault_tolerance) [swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics) is actually a means of training for meditative awareness.***  
+
+*Yeah, that's OBVIOUSLY a* ***total stretch*** ... **AGREED!**... but let's **think** about how that system might function in a chaotic battlefield environment ... and what that kind of [CR or cognitive-optimized](https://en.wikipedia.org/wiki/Cognitive_radio) chaotic communication environment of multi-plexed RF signals from/for multiple devices transmitting/recieving, each message packet containing some important portion of a fact ... **THINK** about ***thinking*** about different cogitive CR strategies used in that comms problem might change our mind awareness and attention spans in chaotic times ... 
+
+We can see that **Diffversity** is really about being overwhelmed ... in other words, it's about the [hormesis](https://en.wikipedia.org/wiki/Hormesis) of mental or cognitive [dose-response relationships](https://en.wikipedia.org/wiki/Dose%E2%80%93response_relationship) ... pushing the DIFFERENCES beyond our normal boundaries ... is about developing our ***think-outside-the-box*** mental *muscles* ... it's [accelerating our stress screening](https://en.wikipedia.org/wiki/Highly_accelerated_stress_audit) to understand our ability to [perform at a high level of quality under stress](https://en.wikipedia.org/wiki/Load_testing) ... nobody ***loses their religion*** when they are not stressed OR when they preaching to the choir [for show] ... we all know, the nasty side comes out when people get stressed or pushed to far or step on a Lego in the dark when they unable to sleep because they're facing financial ruin.
+
+**Diffversity** is really about training ourselves [to develop capabilities we didn't know we had] by being overwhelmed.
 
 **Diffversity** is based the idea that we can learn to think better by immersing ourselves in the most difficult, challenging, complex and HARD problems that we can find ... but we probably *learn best* when we can do so in a manner in which we can be relatively sure that we'll survive the difficulty, ie it doesn't really advance our cause to have everyone DIE from the learning experience ... troubleshooting issues to understand how systems respond will be HARD, but it has to a very PRACTICAL and HANDS-ON experience ... because *learning to think* about frustrating problems helps us to be more present, more empathetic, more aware and more focused.
 
