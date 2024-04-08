@@ -29,62 +29,10 @@ Per the ORIGINAL PLAN for our immersive learning plunge, the modules almost appe
 
 *Of course, it's perfectly okay to revise/extend the syllabus as we go along BUT ...*
 
-## THE SYLLABUS BRINGS US BACK TO CENTER ...
+## THE ORIGINAL SYLLABUS BRINGS US BACK TO CENTER ...
 
 At some point, when we have really squeezed all the just out of the ol' lemon, we are going to ask our AI assistant an UPDATED VERSION of our original question to furnish us with a new, improved, updated syllabus *although we will keep the old one for reference*.
 
     "Please develop a 200 module training regimen for a year-long deep dive into learning to program with Rust-Lang, including WASM, the Tauri application toolkit, ROS2 with Rust bindings and other intracies of Rust-Lang and getting closer to the machine. The general objective for this year-long training regimen should be in the realm of developing the capabilities and toolchain for developing fault-tolerant real-time operating systems for swarm robotics."
 
-The POINT of this exercise is IMMERSION ... and overwhelming ourselves with an understanding of the topic ... in order to be able to ask progressively better question.
-
-# Fundamentals (50 modules):
-1-10: Rust basics - syntax, data types, variables, functions, control flow 
-11-20: Ownership, borrowing, lifetimes 
-21-30: Structs, enums, pattern matching
-31-35: Error handling, Option, Result 
-36-40: Modules, crates, workspaces
-41-45: Testing, debugging, documentation
-46-50: Standard library, common collections
-
-# Systems Programming (40 modules):
-51-60: Memory layout, pointers, unsafe Rust
-61-65: Concurrency, threads, sync primitives 
-66-70: Parallelism, rayon, crossbeam
-71-75: FFI, linking to C code
-76-80: Allocators, custom allocators
-81-90: Performance, profiling, optimization 
-
-# Embedded & Real-Time Systems (40 modules):
-91-100: Embedded basics, no_std, memory-mapped registers
-101-105: Interrupts, exceptions, fault handling
-106-110: Device drivers, I/O 
-111-120: Real-time scheduling, RTOS concepts
-121-125: Time handling, clocks, timers
-126-130: Predictability, worst-case execution time
-
-# WebAssembly & Tauri (20 modules): 
-131-135: WebAssembly basics, Rust to WASM
-136-140: JavaScript interop, wasm-bindgen
-141-145: Tauri fundamentals, project setup
-146-150: UI development with Tauri
-
-# Robotics & ROS2 (30 modules):
-151-160: Robotics fundamentals, kinematics, control
-161-165: Sensors, actuators, interfacing
-166-170: ROS2 architecture, nodes, topics
-171-175: Navigation, path planning, obstacle avoidance 
-176-180: Computer vision, image processing
-
-# Distributed Systems (20 modules):
-181-185: Distributed algorithms, consensus, gossip
-186-190: Fault tolerance, replication, sharding
-191-195: Networking, protocols, message passing
-196-200: Security, authentication, encryption
-
-
-
-WebAssembly and Tauri are included to enable UI development and potential off-loading of computation. The robotics portion covers essential concepts and ROS2 integration.
-
-Finally, distributed systems modules prepare for the challenges of swarm robotics, such as coordination, resilience, and security. Extensive practice projects and coding exercises should accompany the theoretical material.
-
-This is an intensive curriculum but provides a thorough foundation for the ambitious goal of building fault-tolerant real-time operating systems for robot swarms. The exact content can be adapted based on prior experience and specific project requirements. Let me know if you would like me to elaborate on any part of the curriculum!
+The POINT of [this learning exercise](https://azynch.github.io/template/2024/03/01/real-time-fault-tolerance.html) is IMMERSION ... and overwhelming ourselves with a progressively better understanding of the topic ... in order to be able to ask progressively better questions ... to ***ACCELERATE the DIFFERENCE!!!***
